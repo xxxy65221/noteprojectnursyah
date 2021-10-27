@@ -1,2 +1,5 @@
 this is only file in sdcard don't forget to cp * ~/github/noteproject
 if you are using termux
+
+##this is tutorial deploy python app on heroku
+pip freeze > requirements.txt
